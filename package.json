@@ -1,0 +1,35 @@
+{
+  "name": "snipercode.filesystem.cli",
+  "version": "1.0.0",
+  "description": "A command line interface for file handling using SniperCode.FileSystem",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "sfs": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sniper-Code/SniperCode.FileSystem.Cli.git"
+  },
+  "keywords": [
+    "SniperCode",
+    "Sniper-Code",
+    "SniperCode.FileSystem",
+    "Cli",
+    "SniperCode.FileSystem.Cli",
+    "Sniper-Code.FileSystem.Cli"
+  ],
+  "author": "Dibesh Raj Subedi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sniper-Code/SniperCode.FileSystem.Cli/issues"
+  },
+  "homepage": "https://github.com/Sniper-Code/SniperCode.FileSystem.Cli#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^8.3.0",
+    "conf": "^10.1.1",
+    "inquirer": "^8.2.0",
+    "snipercode.filesystem": "^1.0.0"
+  }
+}
