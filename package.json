@@ -1,6 +1,6 @@
 {
   "name": "snipercode.filesystem.cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command line interface for file handling using SniperCode.FileSystem",
   "main": "index.js",
   "type": "module",
@@ -30,6 +30,6 @@
     "commander": "^8.3.0",
     "conf": "^10.1.1",
     "inquirer": "^8.2.0",
-    "snipercode.filesystem": "^1.0.0"
+    "snipercode.filesystem": "^1.0.1"
   }
 }

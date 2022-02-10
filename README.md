@@ -3,6 +3,7 @@
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Sniper-Code/SniperCode.FileSystem.Cli)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sniper-Code/SniperCode.FileSystem.Cli)
 ![GitHub](https://img.shields.io/github/license/Sniper-Code/SniperCode.FileSystem.Cli)![GitHub top language](https://img.shields.io/github/languages/top/Sniper-Code/SniperCode.FileSystem.Cli)
+![npm](https://img.shields.io/npm/v/snipercode.filesystem.cli)
 
 ## **Table of Contents**
 

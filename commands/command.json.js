@@ -49,12 +49,6 @@ export function get_all_Commands(cmd) {
             description: 'execute a command',
             action: cmd.Commands.Shell,
         },
-        // Ip Address
-        {
-            command: 'ip',
-            description: 'get the ip address',
-            action: cmd.Commands.Network.IpAddress
-        },
         // Is Directory
         {
             command: 'isdir',

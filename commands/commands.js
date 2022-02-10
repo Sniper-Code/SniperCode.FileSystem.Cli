@@ -995,18 +995,6 @@ export default class Commands extends FsCliPackage {
                     })
             },
         },
-        Network: {
-            IpAddress: () => {
-                const ipAddr = new this.Network().network;
-                console.log('\n')
-                for (const device_type in ipAddr) {
-                    if (Object.hasOwnProperty.call(ipAddr, device_type)) {
-                        const address = ipAddr[device_type];
-                        console.log(this.Color.bold(`\t${this.Color.yellow(device_type)}: ${this.Color.green(address)}`));
-                    }
-                }
-            },
-        },
         Operating_System: {
             Name: () => {
                 const System_Platform = this.File_System.platform;
