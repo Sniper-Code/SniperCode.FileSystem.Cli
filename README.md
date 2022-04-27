@@ -43,6 +43,12 @@ This package is a command line interface for file handling using [SniperCode.Fil
     sfs
 ```
 
+If you cannot run the command directly in terminal just use the following command:
+
+```bash
+  npx sfs
+```
+
 This command will show the usage of SniperCode.FileSystem.Cli as shown in picture below.
 
 ![SniperCode.FileSystem.Cli](./doc/cli-image.png)
